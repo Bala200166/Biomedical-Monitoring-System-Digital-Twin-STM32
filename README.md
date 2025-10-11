@@ -61,9 +61,7 @@ The system enables **faster diagnosis**, **priority-based emergency care**, and 
 ---
 
 ##  Developing in progress By
-**Sakthivel Balakumar**  
-Embedded Systems Enthusiast 
-
+**Sakthivel Balakumar**   
 
 ---
 ##  License

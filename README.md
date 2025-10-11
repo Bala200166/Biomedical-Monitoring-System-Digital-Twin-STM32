@@ -33,7 +33,7 @@ This allows the medical team to **prioritize patients based on real-time severit
 ##  Block Diagram
 
 ### Wearable Sensor Unit
-![Block Diagram](diagram.png)  
+![Block Diagram](Blockdiagram.png)  
 *(Example diagram showing STM32, sensors, and IoT interface)*
 
 ---

@@ -53,8 +53,7 @@ The system enables **faster diagnosis**, **priority-based emergency care**, and 
 
 ##  Software & Tools
 - **STM32CubeIDE** – Development and debugging  
-- **Embedded C Language** – Firmware programming  
-- **Hi-Tech Compiler** – Code compilation  
+- **Embedded C Language** – Firmware programming    
 - **MATLAB / Simulink (optional)** – Data visualization and simulation
 
  ## Technical Skills Demonstrated
@@ -77,6 +76,17 @@ The system enables **faster diagnosis**, **priority-based emergency care**, and 
 - BLE-based wireless communication  
 
 ---
+
+## Project Applications
+
+- ICU Patient Monitoring
+- Emergency Patient Prioritization
+- Remote Healthcare Monitoring
+- Smart Hospital Systems
+- Digital Twin Healthcare Platforms
+
+---
+
 ## Repository Contents
 
 - Source Code
@@ -89,11 +99,16 @@ The system enables **faster diagnosis**, **priority-based emergency care**, and 
   
 ## Author
 
-Sakthivel Balakumar
-Final-Year Master's Student (Bac+5) in Embedded Systems
-ISEP Paris, France  
+**Sakthivel Balakumar**  
+Final-Year Master's Student (Bac+5) in Embedded Systems  
+ISEP Paris, France 
 
 ---
+
+GitHub: https://github.com/Bala200166
+
+---
+
 ##  License
 Independent project for learning and research in embedded systems.  
 Reuse allowed with credit. Commercial use prohibited.

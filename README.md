@@ -62,9 +62,21 @@ The system enables **faster diagnosis**, **priority-based emergency care**, and 
 - BLE-based wireless communication  
 
 ---
+## Repository Contents
 
-##  Developing in progress By
-**Sakthivel Balakumar**   
+- Source Code
+- Block Diagram
+- Hardware Prototype Images
+- Project Report
+- Demonstration Videos
+
+---
+  
+## Author
+
+Sakthivel Balakumar
+Final-Year Master's Student (Bac+5) in Embedded Systems
+ISEP Paris, France  
 
 ---
 ##  License

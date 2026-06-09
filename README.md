@@ -8,6 +8,8 @@ Built using **STM32 microcontroller**, **biomedical sensors**, and **NodeMCU IoT
 
 ![Biomedical System Prototype](Biomedical_system_prototype.jpg)
 
+*STM32-based biomedical monitoring prototype integrating respiratory sensor, pulse sensor, NodeMCU IoT module, LCD display, relay-based alarm system, and wearable smart-mask interface.*
+
 ##  Overview
 Each patient is assigned a **Digital Twin–based Augmented Vision (AV) code**, allowing doctors to view their real-time physiological state.  
 The system enables **faster diagnosis**, **priority-based emergency care**, and **remote patient tracking**.
@@ -53,7 +55,20 @@ The system enables **faster diagnosis**, **priority-based emergency care**, and 
 - **STM32CubeIDE** – Development and debugging  
 - **Embedded C Language** – Firmware programming  
 - **Hi-Tech Compiler** – Code compilation  
-- **MATLAB / Simulink (optional)** – Data visualization and simulation  
+- **MATLAB / Simulink (optional)** – Data visualization and simulation
+
+ ## Technical Skills Demonstrated
+
+- STM32 Microcontroller Programming
+- Embedded C Development
+- Sensor Interfacing
+- UART Communication
+- IoT Data Transmission
+- LCD Display Interfacing
+- Relay and Alarm Control
+- Real-Time Monitoring Systems
+- Biomedical Embedded Systems
+- Hardware–Software Integration
 
 
 ##  Future Enhancements

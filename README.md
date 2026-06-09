@@ -4,6 +4,9 @@ A **real-time biomedical monitoring system** integrating **Digital Twin (DT)** a
 Built using **STM32 microcontroller**, **biomedical sensors**, and **NodeMCU IoT module** for cloud data visualization.
 
 ---
+## Hardware Prototype
+
+![Biomedical Monitoring System Prototype](images/biomedical_system_prototype.jpg)
 
 ##  Overview
 Each patient is assigned a **Digital Twin–based Augmented Vision (AV) code**, allowing doctors to view their real-time physiological state.  

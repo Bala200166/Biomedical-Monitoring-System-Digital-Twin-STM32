@@ -6,7 +6,7 @@ Built using **STM32 microcontroller**, **biomedical sensors**, and **NodeMCU IoT
 ---
 ## Hardware Prototype
 
-![biomedical_system_prototype](images/biomedical_system_prototype.jpg)
+![Biomedical_system_prototype](images/Biomedical_system_prototype.jpg)
 
 ##  Overview
 Each patient is assigned a **Digital Twin–based Augmented Vision (AV) code**, allowing doctors to view their real-time physiological state.  

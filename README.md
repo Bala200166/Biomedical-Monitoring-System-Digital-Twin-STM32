@@ -93,7 +93,7 @@ The system enables **faster diagnosis**, **priority-based emergency care**, and 
 - Block Diagram
 - Hardware Prototype Images
 - Project Report
-- Demonstration Videos
+- [Demonstration Videos](Demo_Videos)
 
 ---
   
